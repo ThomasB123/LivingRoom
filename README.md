@@ -1,4 +1,8 @@
-Instructions on how to run the system and what external resources I have adopted
+# Living Room WebGL Scene
+
+See `cg.assignment.2020.pdf` for details. 
+
+## Instructions on how to run the system and what external resources I have adopted
 
 Ideas for furniture:
 4 chairs
